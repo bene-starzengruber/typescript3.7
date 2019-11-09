@@ -163,4 +163,4 @@
 // console.log('https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-7.html');
 // console.log();
 // console.log('Code:');
-// console.log('https://github.com/bene-starzengruber/typescript3.7');
+// console.log('https://github.com/bene-starzengruber/typescript3.7/blob/master/cheetsheet.ts');
